@@ -30,4 +30,4 @@ As stated previously, the bargrapgh is connected to the third socket at the bott
 
 ## Next
 
-Integrate the bargraph into [Softa-ta/Softata](https://github.com/djaus2/Soft-ata)
+Integrate the LinkSprite Bargraph into [Softa-ta/Softata](https://github.com/djaus2/Soft-ata)
