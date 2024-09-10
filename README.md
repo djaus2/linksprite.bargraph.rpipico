@@ -26,3 +26,5 @@ As stated previously, the bargrapgh is connected to the third socket at the bott
 ![LinkSprint Bargrapgh - Grove](images/PXL_20240910_063944336.jpg)  
 ***Linksprite Bargraph to Grove Pico Shield connections***
 
+<iframe src="https://giphy.com/embed/YMj0oajD5xOegzI72A" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YMj0oajD5xOegzI72A">via GIPHY</a></p>
+
