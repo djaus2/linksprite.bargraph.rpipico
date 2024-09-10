@@ -39,3 +39,9 @@ As stated previously, the bargrapgh is connected to the third socket at the bott
 ## Next
 
 Integrate the LinkSprite Bargraph into [Softa-ta/Softata](https://github.com/djaus2/Soft-ata)
+
+## Footnote
+
+Turns out the Linksprite Bargraph is a complete clone of the Grove Bargraph.
+So you can install the [Grove Bargraph](https://wiki.seeedstudio.com/Grove-LED_Bar/) library and use it with the Linksprite Bargraph.
+Library source: [github/Seeed-Studio/Grove_LED_Bar/](https://github.com/Seeed-Studio/Grove_LED_Bar)
