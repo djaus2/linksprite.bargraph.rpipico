@@ -3,7 +3,7 @@ Arduino Sketch to drive [LinkSprite Bargraph](https://wiki.linksprite.com/index.
 
 -[Schematics](https://s3.amazonaws.com/linksprite/LinkerKit/LED+Bar.pdf)
 
-I purcahsed one quite cheaply from Jaycar in Australia [linker-led-bar-for-arduino-XC4568](https://www.jaycar.com.au/linker-led-bar-for-arduino/p/XC4568) as it was on significant discount (as of 10/09/24). 
+I purchased a LinkSprite Bargraph quite cheaply from Jaycar in Australia [linker-led-bar-for-arduino-XC4568](https://www.jaycar.com.au/linker-led-bar-for-arduino/p/XC4568) as it was on significant discount (as of 10/09/24). 
 It is a 10 segment LED bar graph. 
 Data is serially clock in, thus requiring only 2 pins, data and clock.
 I used the Grove RPi Pico Shield to make the connections easier. 
