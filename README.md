@@ -13,12 +13,12 @@ Both cables are 4 wire cables with 2 signal wires, power and ground.
 
 ![Cable Jumpers](images/cable-jumpers.jpg)
 
-## Jumper Connections
+## Jumper Connections (Grove Cable)
 
   - Black  : Ground
   - Red    : 3.3V
-  - White  : Data (GPIO 6)
-  - Yellow : Clock (GPIO 7)
+  - White  : Data (GPIO 16)
+  - Yellow : Clock (GPIO 17)
 
 ## Connected Device
 
