@@ -1,5 +1,5 @@
 # linksprite.bargraph.rpipico
-Arduino Sketch to drive [LinkSprite Bargraph](https://wiki.linksprite.com/index.php?title=LED_Bar&oldid=4543) from a RPi Pico using a Grove RPi Pico Shield.
+Arduino Sketch to drive [LinkSprite Bargraph](https://wiki.linksprite.com/index.php?title=LED_Bar&oldid=4543) from a [RPi Pico](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) using a [Grove RPi Pico Shield](https://www.seeedstudio.com/Grove-Shield-for-Pi-Pico-v1-0-p-4846.html).
 
 -[Schematics](https://s3.amazonaws.com/linksprite/LinkerKit/LED+Bar.pdf)
 
