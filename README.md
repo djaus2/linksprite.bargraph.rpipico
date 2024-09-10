@@ -3,8 +3,16 @@ Arduino Sketch to drive [LinkSprite Bargraph](https://wiki.linksprite.com/index.
 
 -[Schematics](https://s3.amazonaws.com/linksprite/LinkerKit/LED+Bar.pdf)
 
-I purchased a LinkSprite Bargraph quite cheaply from Jaycar in Australia [linker-led-bar-for-arduino-XC4568](https://www.jaycar.com.au/linker-led-bar-for-arduino/p/XC4568) as it was on significant discount (as of 10/09/24). 
-It is a 10 segment LED bar graph. 
+## About
+
+As part of the [Softa-ta](https://github.com/djaus2/Soft-ata) suite, there is a discussion of a Bargraph built from
+a discrete bargraph display and a 74HC595 shift register, plus current limiting resistors. This only required serail transmission of data thus 
+minimizing the number of Pico pins required.
+There is also a [Grove Bargraph](https://wiki.seeedstudio.com/Grove-LED_Bar/) available from Seeed Studio that also could have been used also
+only requiring a serial transmission of data to it.
+
+Recently I purchased a LinkSprite Bargraph quite cheaply from Jaycar in Australia [linker-led-bar-for-arduino-XC4568](https://www.jaycar.com.au/linker-led-bar-for-arduino/p/XC4568) as it was on significant discount (as of 10/09/24). 
+It is a 10 segment LED bar graph. This uses the [MY9221](http://www.my-semi.com/file/MY9221_BF_0.7.pdf) as does the Grove device. 
 Data is serially clocked in, thus requiring only 2 pins, data and clock.
 I used the Grove RPi Pico Shield to make the connections easier. 
 The third socket at the bottom of the shield was used using GPIO pins 16 (data) and 17 (clock).
