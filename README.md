@@ -32,7 +32,7 @@ Both cables are 4 wire cables with 2 signal wires, power and ground.
 
 As stated previously, the bargrapgh is connected to the third socket at the bottom of the grove shield:  
 ![LinkSprint Bargrapgh - Grove](images/PXL_20240910_063944336.jpg)  
-***Linksprite Bargraph to Grove Pico Shield connections***
+***LinkSprite Bargraph to Grove Pico Shield connections***
 
 [Giphy Animation](https://giphy.com/embed/YMj0oajD5xOegzI72A)
 
@@ -42,6 +42,6 @@ Integrate the LinkSprite Bargraph into [Softa-ta/Softata](https://github.com/dja
 
 ## Footnote
 
-Turns out the Linksprite Bargraph is a complete clone of the Grove Bargraph.
+Turns out the LinkSprite Bargraph is a complete clone of the Grove Bargraph.
 So you can install the [Grove Bargraph](https://wiki.seeedstudio.com/Grove-LED_Bar/) library and use it with the Linksprite Bargraph.
 Library source: [github/Seeed-Studio/Grove_LED_Bar/](https://github.com/Seeed-Studio/Grove_LED_Bar)
